@@ -608,19 +608,20 @@ bar-custom {
   font-family: Arial;
   color: #000000;
   font-size: 13px;
-  background: #d3d3d3;
+  background: #fff;
   padding: 10px 20px 10px 20px;
   border: solid #000 1px;
   text-decoration: none;
 }
 
-.btn:hover {
-  background: #3cb0fd;
+.btn:hover {/*
   background-image: -webkit-linear-gradient(top, #fff, #d3d3d3);
   background-image: -moz-linear-gradient(top, #fff, #d3d3d3);
   background-image: -ms-linear-gradient(top, #fff, #d3d3d3);
   background-image: -o-linear-gradient(top, #fff, #d3d3d3);
   background-image: linear-gradient(to bottom, #fff, #d3d3d3);
+  */
+  background: #fff;
   text-decoration: none;
 }
 
