@@ -333,7 +333,7 @@ bar-custom {
 }
 
 
-/* ---- ---- */
+/* ---- RESULT---- */
 
 .site-headert {
   width: 100%;
@@ -361,7 +361,7 @@ bar-custom {
   padding: 0 15px;
   display: table-cell;
   vertical-align: middle;
-  height: 100vh;
+  height: 60vh;
 }
 .site-headert .intros h2 {
   margin-top: 0px;
@@ -381,6 +381,10 @@ bar-custom {
 
 
 /* ---- ---- */
+
+
+
+
 
 @media (min-width: 768px) {
   .navbar-custom {
